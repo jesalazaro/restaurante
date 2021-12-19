@@ -3,4 +3,4 @@
  Es un CRUD basico junto a una interfaz de usuario que conecta a una base de datos SQL. Se realizo en apache Netbeans pero no deberia tener problema el ejecutarse en cualquier otro ambiente.
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://imgur.com/a/sDgnoyH)
